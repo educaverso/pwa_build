@@ -1,0 +1,11 @@
+{
+  "name": "Educaverso",
+  "short_name": "Educaverso",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00C7CC",
+  "lang": "en",
+  "scope": "/",
+  "description": "Um metaverso educacional para educação 4.0",
+  "id": "app.educaverso"
+}
